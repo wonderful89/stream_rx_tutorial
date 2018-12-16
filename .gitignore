@@ -4,6 +4,10 @@
 .packages
 .pub/
 
+.idea/
+
 build/
 
 .flutter-plugins
+
+ios/Runner.xcworkspace/xcshareddata/
